@@ -1,0 +1,5 @@
+CPU [AMD FX(tm)-6300 Six-Core Processor](https://www.amd.com/en/products/cpu/fx-6300)  
+Motherboard [Asus M5A78L-M PLUS/USB3](https://www.asus.com/motherboards-components/motherboards/business/m5a78l-m-plus-usb3/techspec/)  
+Storage 2 - [Crucial BX500 480GB](https://www.crucial.com/ssd/bx500/ct480bx500ssd1)  
+PCIE card - [Intel Pro/1000 GT](https://www.intel.com/content/www/us/en/support/products/50480/ethernet-products/legacy-ethernet-products/intel-pro1000-gt-desktop-adapter-series/intel-pro-1000-gt-desktop-adapter.html)  
+Power Supply - [Corsair CS450M](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/cs-series-config/p/CP-9020075-NA)  
