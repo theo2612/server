@@ -1,0 +1,5 @@
+- Crunch's CTF 1
+- Crunch's CTF 2 - Promotion
+- Kali Linux
+- Ubuntu - rwxrob's boost
+- Window11 for infecting
