@@ -1,1 +1,1 @@
-# schmods
+# schmods - my server
