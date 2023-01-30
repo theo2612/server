@@ -2,5 +2,5 @@
 - Crunch's CTF 1 - available on request
 - Crunch's CTF 2 - Promotion - available on request
 - Kali Linux
-- [Window11 for infecting](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+- Vmware VCenter
 - Ubuntu - rwxrob's boost
