@@ -1,6 +1,6 @@
-- CPU [AMD FX(tm)-6300 Six-Core Processor](https://www.amd.com/en/products/cpu/fx-6300)
-- Motherboard [Asus M5A78L-M PLUS/USB3](https://www.asus.com/motherboards-components/motherboards/business/m5a78l-m-plus-usb3/techspec/)
-- Storage 2ea - [Crucial BX500 480GB](https://www.crucial.com/ssd/bx500/ct480bx500ssd1)
-- PCIE card- [Intel Pro/1000 GT](https://www.intel.com/content/www/us/en/support/products/50480/ethernet-products/legacy-ethernet-products/intel-pro1000-gt-desktop-adapter-series/intel-pro-1000-gt-desktop-adapter.html)
-- PCIE card- [Gigabit Dual NIC with Intel 82571 Chip, 1Gb Network Card, 2 RJ45 Ports, PCI Express 2.1 X4, Ethernet Card with Low Profile](https://www.10gtek.com/products/1Gb-s-Ethernet-Network-Adapter-315.html)
-- Power Supply - [Corsair CS450M](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/cs-series-config/p/CP-9020075-NA)
+- CPU - Intel Core i5-8600K 3.6 GHz 6-Core Processor
+- Motherboard - Asus Prime Z370-A ATX LGA1151 Motherboard
+- Storage 2ea - Crucial BX500 480GB
+- Power Supply - Corsair CS450M
+- CPU cooler - Noctua NH-L9i chromax.black 33.84 CFM CPU Cooler
+- Memory - TEAMGROUP T-Force Delta TUF Gaming Alliance RGB 32 GB (4 x 16 GB) DDR4-3200 CL16 Memory
