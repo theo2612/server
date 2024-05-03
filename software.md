@@ -1,1 +1,1 @@
-- Hypervisor - [Proxmox]([https://www.vmware.com/products/esxi-and-esx.html](https://www.proxmox.com/en/proxmox-virtual-environment/overview))
+- Hypervisor - [Proxmox](https://www.vmware.com/products/esxi-and-esx.html](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
