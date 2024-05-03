@@ -1,2 +1,1 @@
-- Hypervisor - [VMware ESXi](https://www.vmware.com/products/esxi-and-esx.html)
-- Virtualization - [vSphere](https://www.vmware.com/products/vsphere.html)
+- Hypervisor - [Proxmox]([https://www.vmware.com/products/esxi-and-esx.html](https://www.proxmox.com/en/proxmox-virtual-environment/overview))
